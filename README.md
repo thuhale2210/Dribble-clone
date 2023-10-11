@@ -1,5 +1,4 @@
-# Fitness App
-[Visit site](https://thuhale2210.github.io/Fitness-app/)
+# Dribble Clone
 
 ![localhost_3000_](https://github.com/thuhale2210/Dribble-clone/assets/120136659/c83a7528-7d8c-4094-a985-ed116e279e2d)
 
